@@ -8,7 +8,7 @@ FakeChrootFixture
 .. image:: https://coveralls.io/repos/yaybu/fakechroot/badge.png?branch=master
     :target: https://coveralls.io/r/yaybu/fakechroot
 
-.. image:: https://pypip.in/version/fakechroot/badge.png
+.. image:: https://img.shields.io/pypi/v/fakechroot.svg
     :target: https://pypi.python.org/pypi/fakechroot/
 
 This package provides a fixtures_ compatible fixture for building and
